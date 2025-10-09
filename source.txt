@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/direct.txt
 https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/cncidr.txt
+https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt
